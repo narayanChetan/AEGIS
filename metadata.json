@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Assistant",
+  "description": "A Jarvis-compatible voice neural interface providing full contextual orchestration, live biometric analysis, and custom automated logic flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
